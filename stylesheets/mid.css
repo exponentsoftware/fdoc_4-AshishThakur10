@@ -202,13 +202,25 @@
 .dl{
     font-size: 34px;
     text-align: center;
-    padding-bottom: 34px;
+    padding-bottom: 134px;
     padding-top:142px
     
 }    
+.el,.el2{
+    width: 500px;
+    margin: 50px 360px;
+    align-items: center;
+    font-size:14px;
+}
+
 .el{
-    font-size: 14px;
-    text-align: center;
-    padding-left: 324px;
-    padding-right: 334px;
+    align-self: left;
+}
+
+.el2{
+    align-self: right;
+}
+.el3{
+    padding-left:32px
+    font-size:14px;
 }
