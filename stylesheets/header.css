@@ -43,6 +43,7 @@ nav ul li a{
     display:flex;
     margin-bottom:22px;
     line-height: 100%;
+    font-weight: bold;
 }
 
 .contact {
